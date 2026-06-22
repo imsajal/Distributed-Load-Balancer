@@ -1,0 +1,8 @@
+target/
+.idea/
+*.iml
+
+# OS/editor files
+.DS_Store
+*.log
+
